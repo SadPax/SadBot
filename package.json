@@ -3,7 +3,7 @@
   "description": "Bot teste criado pelo @SadPax#4001",
   "main": "SadBot.js",
   "scripts": {
-   "start": node bot.js
+   "start": "node. " 
   },
    "discord.js": "^11.3.2"
   }
