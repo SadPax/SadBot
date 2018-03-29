@@ -1,11 +1,10 @@
  "name": "sadbot",
   "version": "0.0.1",
-  "description": "Bot teste criado pelo SadPax@4001",
+  "description": "Bot teste criado pelo @SadPax#4001",
   "main": "SadBot.js",
   "scripts": {
    "start": node bot.js
   },
-  "dependencies": {
    "discord.js": "^11.3.2"
   }
 }
